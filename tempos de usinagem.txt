@@ -1,0 +1,13 @@
+perna 4 = 6min27seg
+perna 4 novo = 6min 23seg
+perna 3 = 5min 5seg
+
+
+perna 3 nova = 5min 28seg
+
+
+perna 2 = 6min 28seg 
+
+perna 1 = 4min 42seg
+
+corpo = 33min 02 seg
